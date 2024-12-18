@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Color Palette : Rick and Morty -->
+    <color name="darkColorOneRAM">#19370D</color>
+    <color name="darkColorTwoRAM">#2D5118</color>
+    <color name="darkColorThreeRAM">#446C24</color>
+    <color name="softColorOneRAM">#5F8633</color>
+    <color name="softColorTwoRAM">#7DA145</color>
+    <color name="softColorThreeRAM">#9DBB59</color>
+
+</resources>

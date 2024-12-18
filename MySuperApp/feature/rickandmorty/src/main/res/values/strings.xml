@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MySuperApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="appBaslik">Hangi uygulamaya gitmek istersiniz ?</string>
+
+    <string name="appRAM">Rick And Morty</string>
+
+    <string name="ramIntroduction">Bu uygulamada Character, Location ve Episode alanlarında arama işlemi yapabilir, buton ile liste görünümünü değiştirebilir ve kart detaylarını görebilirsiniz.</string>
+    <string name="newsIntroduction">Bu uygulamada Türkiye ve Almanya haberlerine ulaşabilir, haber türü seçim listesinden haber türünü belirleyebilir, buton ile liste görünümünü değiştirebilir ve habere tıklandığında detaylarını görebilirsiniz.</string>
+    <string name="weathersIntroduction">Bu uygulamada Ankara, İstanbul ve İzmir şehirlerine ait 7 günlük hava durumu bilgilerini alabilir ve buton ile liste görünümünü değiştirebilirsiniz.</string>
+
+    <string name="app_name_collapsing">CollapsingToolbar</string>
+
+</resources>

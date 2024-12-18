@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Color Palette : Weathers -->
+    <color name="darkColorOneWeathers">#151F48</color>
+    <color name="darkColorTwoWeathers">#256DD3</color>
+    <color name="darkColorThreeWeathers">#5AA5F4</color>
+    <color name="softColorOneWeathers">#536889</color>
+    <color name="softColorTwoWeathers">#AFC5E8</color>
+
+</resources>

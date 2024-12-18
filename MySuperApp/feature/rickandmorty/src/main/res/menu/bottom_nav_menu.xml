@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/characterFragment"
+        android:title="Character" />
+    <item
+        android:id="@+id/locationFragment"
+        android:title="Location" />
+    <item
+        android:id="@+id/episodeFragment"
+        android:title="Episode" />
+</menu>

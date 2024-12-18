@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application>
+        <activity
+            android:name=".presentation.activities.FavoriteActivity"
+            android:exported="false" />
+        <activity
+            android:name=".presentation.activities.MainActivityRAM"
+            android:exported="true" />
+        <activity
+            android:name=".presentation.activities.DetailActivityRAM"
+            android:exported="true" />
+    </application>
+
+</manifest>

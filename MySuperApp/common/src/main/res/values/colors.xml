@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Splash Screen Color -->
+    <color name="splashScreenBackground">#DCEDC8</color>
+
+    <!-- Color Palette : MySuperApp -->
+    <color name="darkColorOneApp">#180018</color>
+    <color name="darkColorTwoApp">#2A114B</color>
+    <color name="darkColorThreeApp">#522959</color>
+    <color name="softColorOneApp">#824D69</color>
+    <color name="softColorTwoApp">#DFB6B2</color>
+    <color name="softColorThreeApp">#FAE5D8</color>
+
+    <!-- Color Palette : Rick and Morty -->
+    <color name="darkColorOneRAM">#19370D</color>
+    <color name="darkColorTwoRAM">#2D5118</color>
+    <color name="darkColorThreeRAM">#446C24</color>
+    <color name="softColorOneRAM">#5F8633</color>
+    <color name="softColorTwoRAM">#7DA145</color>
+    <color name="softColorThreeRAM">#9DBB59</color>
+
+    <!-- Color palette : News -->
+    <color name="darkColorOneNews">#5D0703</color>
+    <color name="darkColorTwoNews">#FC703C</color>
+    <color name="darkColorThreeNews">#FFA175</color>
+    <color name="softColorTwoNews">#F8CBB7</color>
+    <color name="softColorOneNews">#F4F3E6</color>
+
+    <!-- Color Palette : Weathers -->
+    <color name="darkColorOneWeathers">#151F48</color>
+    <color name="darkColorTwoWeathers">#256DD3</color>
+    <color name="darkColorThreeWeathers">#5AA5F4</color>
+    <color name="softColorOneWeathers">#536889</color>
+    <color name="softColorTwoWeathers">#AFC5E8</color>
+
+</resources>
